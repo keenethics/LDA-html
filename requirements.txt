@@ -1,0 +1,6 @@
+pandas
+wordcloud
+gensim
+nltk
+tqdm
+bs4
